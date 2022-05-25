@@ -8,7 +8,7 @@ The goal of this project is to provide an example method to interact with Junipe
 
 ## 📋 Terraform version compatibility
 
-This project was tested with Terraform version v1.1.7
+This project was tested with Terraform version v1.1.6
 
 ## 🚀 Deploy
 
